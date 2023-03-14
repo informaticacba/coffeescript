@@ -50,6 +50,6 @@
     "markdown-it": "~12.2.0",
     "puppeteer": "~10.2.0",
     "underscore": "~1.13.1",
-    "webpack": "~5.53.0"
+    "webpack": "~5.76.0"
   }
 }
